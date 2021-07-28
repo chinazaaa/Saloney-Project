@@ -1,6 +1,6 @@
-# starter_project
+# Saloney_Project
 
-A new Flutter project.
+My Final Year project.
 
 ## Getting Started
 
